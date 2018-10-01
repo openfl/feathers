@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Feathers | Hello World" package="com.feathersui.examples.HelloWorld" version="2.2.0" company="Bowler Hat LLC" />
+	<app main="HelloWorld" path="Export" file="HelloWorld" />
+	
+	<window width="960" height="640" background="0x4a4137" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="starling" version="1.8.15" />
+	<haxelib name="feathers" />
+	
+</project>

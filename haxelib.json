@@ -1,0 +1,12 @@
+{
+	"name": "feathers",
+	"url": "https://github.com/openfl/feathers",
+	"license": "BSD",
+	"tags": [ "feathers", "starling", "openfl", "flash", "air", "js", "web", "cpp" ],
+	"description": "User interface components for Starling Framework",
+	"version": "2.2.0",
+	"releasenote": "Initial port",
+	"contributors": [ "singmajesty" ],
+	"dependencies": {},
+	"classPath": "src"
+}
